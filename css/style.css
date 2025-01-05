@@ -1728,6 +1728,12 @@ a i {
 
 /* Media Queries for Responsiveness */
 @media (max-width: 1200px) {
+    
+body{
+    overflow-x: hidden;
+
+}
+
     .pc_press_media_info h3 {
         font-size: 28px;
     }
@@ -1746,6 +1752,12 @@ a i {
 }
 
 @media (max-width: 992px) {
+    
+body{
+    overflow-x: hidden;
+
+}
+
     .pc_press_media .container {
         padding: 0 15px;
     }
@@ -1775,6 +1787,12 @@ a i {
 }
 
 @media (max-width: 768px) {
+    
+body{
+    overflow-x: hidden;
+
+}
+
     .pc_press_media_slider {
         width: 100vw; /* Full screen width */
         /* height: 100vh; Full screen height */
@@ -1825,6 +1843,12 @@ a i {
 }
 
 @media (max-width: 576px) {
+    
+body{
+    overflow-x: hidden;
+
+}
+
     .pc_press_media_info h3 {
         font-size: 22px;
     }
@@ -1861,7 +1885,14 @@ a i {
 }
 
 @media (max-width: 360px) {
+    
+body{
+    overflow-x: hidden;
+
+}
+
     .pc_press_media_info h6 {
+
         font-size: 12px;
     }
 
