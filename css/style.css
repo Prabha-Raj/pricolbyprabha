@@ -5,7 +5,7 @@
     text-decoration: none;
     list-style: none;
     font-family: "Inter", serif;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 
 :root {
