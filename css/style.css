@@ -8,6 +8,11 @@
     /* overflow-x: hidden; */
 }
 
+body{
+    overflow-x: hidden;
+
+}
+
 :root {
     --white: white;
     --blue: #0071bb;
